@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+footer {
+  background-color: #000;
+  margin-top: 40px;
+  padding: 40px 40px;
+}
+
+.footer-container {
+  max-width: 100%;
+  margin: auto;
+}
+
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-column {
+  flex-basis: 33%;
+}
+
+p.footer-header {
+  font-family: "Libre Baskerville", serif;
+  font-size: 1.4rem;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+ul li {
+  list-style: none;
+}
+
+.footer-links li {
+  list-style: none;
+}
+
+.footer-links li:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+.footer-links li a {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-links li a:hover {
+  text-decoration: underline;
+}
+
+.footer-column .social-links a {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  color: #fff;
+  background-color: #555;
+  line-height: 2.5rem;
+  text-align: center;
+  border-radius: 50%;
+  margin: 12px 10px 0 0;
+  transition: all 0.5s ease;
+}
+
+.footer-column .social-links a:hover {
+  color: #333;
+  background-color: #fff;
+}
+
+.footer-text {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
+  color: #fff;
+  margin-bottom: 12px;
+}
+
+#email-signup {
+  display: flex;
+}
+
+.visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+input.subscribe {
+  display: block;
+  flex-basis: 74%;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px 0 0 4px;
+  margin: 5px 0 15px 0;
+  padding: 10px;
+}
+
+input.subscribe:focus {
+  outline: 0;
+  border-color: #777;
+}
+
+.btn-subscribe {
+  font-size: 1rem;
+  color: #fff;
+  background-color: #777;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  margin: 5px 0 15px 0;
+  padding: 4px 20px;
+  transition: 0.25s ease;
+}
+
+.btn-subscribe:hover {
+  background-color: #8dd2f1;
+  color: #000;
+  cursor: pointer;
+}
+
+.btn-subscribe:focus {
+  outline: 0;
+}
