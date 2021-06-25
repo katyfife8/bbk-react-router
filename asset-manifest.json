@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bbk-react-router/static/css/main.c18ed260.chunk.css",
+    "main.js": "/bbk-react-router/static/js/main.64f780af.chunk.js",
+    "main.js.map": "/bbk-react-router/static/js/main.64f780af.chunk.js.map",
+    "runtime-main.js": "/bbk-react-router/static/js/runtime-main.9261ec98.js",
+    "runtime-main.js.map": "/bbk-react-router/static/js/runtime-main.9261ec98.js.map",
+    "static/js/2.01f7ee18.chunk.js": "/bbk-react-router/static/js/2.01f7ee18.chunk.js",
+    "static/js/2.01f7ee18.chunk.js.map": "/bbk-react-router/static/js/2.01f7ee18.chunk.js.map",
+    "static/js/3.ffe98bac.chunk.js": "/bbk-react-router/static/js/3.ffe98bac.chunk.js",
+    "static/js/3.ffe98bac.chunk.js.map": "/bbk-react-router/static/js/3.ffe98bac.chunk.js.map",
+    "index.html": "/bbk-react-router/index.html",
+    "static/css/main.c18ed260.chunk.css.map": "/bbk-react-router/static/css/main.c18ed260.chunk.css.map",
+    "static/js/2.01f7ee18.chunk.js.LICENSE.txt": "/bbk-react-router/static/js/2.01f7ee18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9261ec98.js",
+    "static/js/2.01f7ee18.chunk.js",
+    "static/css/main.c18ed260.chunk.css",
+    "static/js/main.64f780af.chunk.js"
+  ]
+}
